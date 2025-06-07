@@ -1,5 +1,5 @@
 const getBaseUrl=()=>{
-    return "http://localhost:5000"
+    return "https://mern-app-backend-seven.vercel.app"
 }
 
 export default getBaseUrl;
